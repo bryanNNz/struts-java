@@ -1,2 +1,2 @@
-# struts-java
-Tentando entender isso 
+# Struts 1
+Projeto criado para entender o funcionamento do Struts
